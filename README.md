@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**miguellamigo/miguellamigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Graduate from Rizal Technological University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer
+
+I'm passionate about building software that solves real-world problems. I enjoy web development, backend systems, databases, and continuously learning new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- Python
+- Java
+- C++
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks & Tools
+- Flask
+- MySQL
+- Git
+- GitHub
+- VS Code
+- Microsoft Excel
+
+---
+
+## 📂 Featured Projects
+
+🏨 Hotel Reservation System *(In Progress)*
+
+📦 Inventory Management System *(Planned)*
+
+📋 Logistics Claims Management System *(Planned)*
+
+🌐 Portfolio Website *(Coming Soon)*
+
+---
+
+## 🌱 Currently Learning
+
+- Java
+- Android Development
+- Data Structures & Algorithms
+- Git & GitHub Best Practices
+
+---
+
+## 📫 Contact
+
+📧 Email: **miguellamigo78@gmail.com**
+
+📍 Pasig City, Philippines
